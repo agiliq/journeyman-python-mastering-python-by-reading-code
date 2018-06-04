@@ -10,6 +10,9 @@ We will learn topics such as decorators, context managers, generators, iterators
    :maxdepth: 2
    :caption: Contents:
 
+   decorators
+   context-managers
+
 
 
 

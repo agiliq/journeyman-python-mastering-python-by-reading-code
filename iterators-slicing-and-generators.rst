@@ -1,2 +1,2 @@
-How Django uses decorators to simplify apis
+Iterators, slicing and generators in SQLAlchemy
 ------------------------------------------------

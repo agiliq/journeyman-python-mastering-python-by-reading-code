@@ -1,6 +1,9 @@
 Understanding python magic methods by reading Django queryset source code.
 -------------------------------------------------------------------------------------
 
+What are magic methods?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Django querysets are amazing. We use them everyday, but rarely think
 about the wonderful API they give us. Just some of the amazing
 properties which queysets have

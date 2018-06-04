@@ -13,6 +13,8 @@ We will learn topics such as decorators, context managers, generators, iterators
    :maxdepth: 2
    :caption: Chapters:
 
+   first-class-functions
+   iterators-slicing-and-generators
    decorators
    magic-methods
    context-managers

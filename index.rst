@@ -8,7 +8,7 @@ We will learn topics such as decorators, context managers, generators, iterators
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Chapters:
 
    decorators
    context-managers

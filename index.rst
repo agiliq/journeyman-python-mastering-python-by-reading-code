@@ -14,6 +14,7 @@ We will learn topics such as decorators, context managers, generators, iterators
    :caption: Chapters:
 
    decorators
+   magic-methods
    context-managers
 
 
